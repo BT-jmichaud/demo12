@@ -1,0 +1,144 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* bt_bank
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 12.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-01 13:27+0000\n"
+"PO-Revision-Date: 2019-05-01 13:27+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: bt_bank
+#: model:ir.model.fields,field_description:bt_bank.field_res_bank__bank_areacode
+msgid "Area code"
+msgstr "Vorwahl"
+
+#. module: bt_bank
+#: model:ir.model.fields,field_description:bt_bank.field_res_bank__bank_bcart
+msgid "BC-Art"
+msgstr ""
+
+#. module: bt_bank
+#: model:ir.model.fields,field_description:bt_bank.field_res_bank__bank_clearing_new
+msgid "BCNr new"
+msgstr "Neue Bankleitzahl"
+
+#. module: bt_bank
+#: model:ir.model,name:bt_bank.model_res_bank
+msgid "Bank"
+msgstr ""
+
+#. module: bt_bank
+#: model:ir.model.fields,field_description:bt_bank.field_res_bank__bank_branchid
+msgid "Branch-ID"
+msgstr "Filial-ID"
+
+#. module: bt_bank
+#: model:ir.model.fields,help:bt_bank.field_res_bank__ccp
+msgid "CCP/CP-Konto of the bank"
+msgstr "CCP/CP-Konto der Bank"
+
+#. module: bt_bank
+#: model:ir.model.fields,field_description:bt_bank.field_res_bank__ccp
+msgid "CCP/CP-Konto"
+msgstr ""
+
+#. module: bt_bank
+#: model:ir.model.fields,help:bt_bank.field_res_bank__city
+msgid "City of the bank"
+msgstr "Stadt der Bank"
+
+#. module: bt_bank
+#: model:ir.model.fields,field_description:bt_bank.field_res_bank__city
+msgid "City"
+msgstr "Stadt"
+
+#. module: bt_bank
+#: model:ir.model.fields,field_description:bt_bank.field_res_bank__clearing
+msgid "Clearing number"
+msgstr "Clearing-Nummer"
+
+#. module: bt_bank
+#: model:ir.model.fields,field_description:bt_bank.field_res_bank__code
+msgid "Code"
+msgstr ""
+
+#. module: bt_bank
+#: model:ir.model.fields,field_description:bt_bank.field_res_bank__country_code
+msgid "Country code"
+msgstr "Landescode"
+
+#. module: bt_bank
+#: model:ir.model.fields,field_description:bt_bank.field_res_bank__bank_group
+msgid "Group"
+msgstr "Gruppe"
+
+#. module: bt_bank
+#: model:ir.model.fields,field_description:bt_bank.field_res_bank__bank_headquarter
+msgid "Headquarter"
+msgstr "Hauptsitz"
+
+#. module: bt_bank
+#: model:ir.model.fields,help:bt_bank.field_res_bank__code
+msgid "Internal reference"
+msgstr "Interne Referenz"
+
+#. module: bt_bank
+#: model:ir.model.fields,field_description:bt_bank.field_res_bank__bank_lang
+msgid "Language"
+msgstr "Sprache"
+
+#. module: bt_bank
+#: code:addons/bt_bank/models/res_bank_ext.py:170
+msgid "Please enter a correct postal number. (01-23456-1 or 12345)"
+msgstr "Bitte fügen Sie eine korrekte Postkontonummer ein: zB 01-23456-1"
+
+#. module: bt_bank
+#: model:ir.model.fields,field_description:bt_bank.field_res_bank__bank_postaccount
+msgid "Post account"
+msgstr "Postkonto"
+
+#. module: bt_bank
+#: model:ir.model.fields,field_description:bt_bank.field_res_bank__bank_postaladdress
+msgid "Postal address"
+msgstr "Adresse"
+
+#. module: bt_bank
+#: model:ir.model.fields,field_description:bt_bank.field_res_bank__bank_sic
+msgid "SIC"
+msgstr ""
+
+#. module: bt_bank
+#: model:ir.model.fields,field_description:bt_bank.field_res_bank__bank_sicnr
+msgid "SIC-Nr"
+msgstr ""
+
+#. module: bt_bank
+#: model:ir.model.fields,help:bt_bank.field_res_bank__clearing
+msgid "Swiss unique bank identifier also used in IBAN number"
+msgstr ""
+
+#. module: bt_bank
+#: model:ir.model.fields,help:bt_bank.field_res_bank__country_code
+msgid "The ISO country code in two chars. \n"
+"You can use this field for quick search."
+msgstr "ISO Landescode in zwei Zeichen. \n"
+"Sie können dieses Feld auch für eine Schnellsuche einsetzen."
+
+#. module: bt_bank
+#: model:ir.model.fields,field_description:bt_bank.field_res_bank__bank_valid_from
+msgid "Valid from"
+msgstr "Gültig ab"
+
+#. module: bt_bank
+#: model:ir.model.fields,field_description:bt_bank.field_res_bank__bank_eurosic
+msgid "euroSIC"
+msgstr ""
+

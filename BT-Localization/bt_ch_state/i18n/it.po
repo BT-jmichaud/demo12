@@ -1,0 +1,166 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* bt_ch_state
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 12.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-12 07:53+0000\n"
+"PO-Revision-Date: 2019-02-12 07:53+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: bt_ch_state
+#: model:ir.model.fields,help:bt_ch_state.field_res_country_state__name
+msgid "Administrative divisions of a country. E.g. Fed. State, Departement, Canton"
+msgstr "Divisione amministrativa di un paese. Es: Stato Federale, Dipartimento, Cantone"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_AI
+msgid "Appenzell Inner Rhodes"
+msgstr "Appenzello interno"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_AR
+msgid "Appenzell Outher Rhodes"
+msgstr "Appenzello esterno"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_AG
+msgid "Argovia"
+msgstr ""
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_BS
+msgid "Basel-City"
+msgstr "Basilea Città"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_BL
+msgid "Basel-Country"
+msgstr "Basilea Campagna"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_BE
+msgid "Bern"
+msgstr "Berna"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_FR
+msgid "Fribourg"
+msgstr "Friburgo"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_GE
+msgid "Geneva"
+msgstr "Ginevra"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_DE
+msgid "Germany"
+msgstr "Germania"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_GL
+msgid "Glarus"
+msgstr "Glarona"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_GR
+msgid "Grisons"
+msgstr "Grigioni"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_IT
+msgid "Italy"
+msgstr "Italia"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_JU
+msgid "Jura"
+msgstr ""
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_LU
+msgid "Luzern"
+msgstr "Lucerna"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_NE
+msgid "Neuchâtel"
+msgstr ""
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_NW
+msgid "Nidwald"
+msgstr "Nidvaldo"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_OW
+msgid "Obwald"
+msgstr "Obvaldo"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_FL
+msgid "Principality of Liechtenstein"
+msgstr "Pricipato del Liechtenstein"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_SH
+msgid "Schaffhausen"
+msgstr "Scaffusa"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_SZ
+msgid "Schwyz"
+msgstr "Svitto"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_SO
+msgid "Solothurn"
+msgstr "Soletta"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_SG
+msgid "St. Gallen"
+msgstr "San Gallo"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_TG
+msgid "Thurgovia"
+msgstr "Turgovia"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_TI
+msgid "Ticino"
+msgstr ""
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_UR
+msgid "Uri"
+msgstr ""
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_VS
+msgid "Valais"
+msgstr "Vallese"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_VD
+msgid "Vaud"
+msgstr ""
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_ZG
+msgid "Zug"
+msgstr "Zugo"
+
+#. module: bt_ch_state
+#: model:res.country.state,name:bt_ch_state.state_ZH
+msgid "Zurich"
+msgstr "Zurigo"
