@@ -1,0 +1,4 @@
+[submodule "ext/bt_localization"]
+	path = ext/bt_localization
+	url = git@github.com:brain-tec/BT-Localization.git
+	branch = 12.0
